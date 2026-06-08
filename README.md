@@ -64,6 +64,7 @@ ACP and MCP are designed to work together. Use ACP to connect the Agent to the I
 
 * [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) - The open standard that allows ACP agents to securely access external data sources and tools.
 * [MCP Servers Directory](https://github.com/modelcontextprotocol/servers) - A repository of pre-built MCP tools (GitHub, Postgres, Slack, Google Drive) that can be exposed to your ACP agents.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Solana on-chain trust scoring for AI agents. Verify wallet identity and reputation before x402 micropayments. Free remote MCP: `https://intel.twzrd.xyz/mcp`
 
 ---
 
