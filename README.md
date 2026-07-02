@@ -48,6 +48,7 @@ Agents designed to run locally, prioritizing privacy and local LLM inference (Ol
 * [Goose](https://block.github.io/goose/) - A local, extensible, open-source AI agent built by Block. Designed to run offline and seamlessly plug into IDEs via ACP.
 * [DeepAgents](https://github.com/langchain-ai/deepagentsjs) - A batteries-included AI coding agent framework powered by LangChain, natively supporting ACP and multi-agent routing.
 * [ProtoAgent](https://github.com/yourusername/protoagent) *(Work in Progress)* - A Python-based, open-source orchestration layer specifically built to route ACP requests to local LLMs (Ollama) with integrated MCP tool support.
+* [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - A production-grade QQ ↔ AI bridge for OneBot 11 / NapCat / LLOneBot that connects ACP-compatible local agents to QQ with persistent sessions and progress streaming.
 
 ## Frameworks & SDKs
 
