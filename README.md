@@ -8,6 +8,7 @@ The Agent Client Protocol (ACP) does for AI agents what the Language Server Prot
 
 * [Official Resources](#official-resources)
 * [Editors & IDEs](#editors--ides)
+* [Clients & Surfaces](#clients--surfaces)
 * [Agents](#agents)
 * [Cloud & Hybrid Agents](#cloud--hybrid-agents)
 * [Local & Open-Source Agents](#local--open-source-agents)
@@ -28,6 +29,12 @@ Code editors that natively support the Agent Client Protocol as clients.
 
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom. Features native, visually rich ACP integration.
 * [JetBrains IDEs](https://www.jetbrains.com/acp/) - Full ACP support via the official JetBrains AI tooling (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.).
+
+## Clients & Surfaces
+
+Non-editor ACP clients — the surfaces you run and supervise agents in.
+
+* [Zooid](https://zooid.dev/) - A self-hostable team-chat surface (Slack alternative on Matrix) where any ACP agent runs as a supervised, first-class teammate, with approval cards, live tool calls, and shared plans. ([GitHub](https://github.com/zooid-ai/zooid), MIT)
 
 ## Agents
 
