@@ -52,6 +52,7 @@ Agents designed to run locally, prioritizing privacy and local LLM inference (Ol
 * [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - A production-grade QQ ↔ AI bridge for OneBot 11 / NapCat / LLOneBot that connects ACP-compatible local agents to QQ with persistent sessions and progress streaming.
 * [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime full-duplex voice client for ACP agents: talk to Claude Code, Codex, OpenCode and more like a phone call, with barge-in, spoken task results, and voice permission gates.
 * [Octomind](https://github.com/muvon/octomind) - An open-source (Apache-2.0) AI coding agent runtime in Rust: one binary, any model provider (including local Ollama), MCP-native. Runs as an ACP agent over stdio via `octomind acp`.
+* [ZenCODE](https://github.com/gerardogrisolini/ZenCODE) - Native-Swift coding agent in a single binary with no Node runtime (macOS, Linux, WSL, Raspberry Pi); any OpenAI-compatible provider or a ChatGPT/Claude subscription, with parallel sub-agents on a task graph. Runs as an ACP agent over stdio via `zen --acp`, including in Xcode 27.
 
 ## Frameworks & SDKs
 
