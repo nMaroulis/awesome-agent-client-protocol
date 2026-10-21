@@ -30,6 +30,12 @@ Code editors that natively support the Agent Client Protocol as clients.
 * [JetBrains IDEs](https://www.jetbrains.com/acp/) - Full ACP support via the official JetBrains AI tooling (IntelliJ IDEA, PyCharm, WebStorm, Rider, etc.).
 * [oxi](https://github.com/maziluiosif/oxi) - Native Rust/egui coding-agent desktop app that acts as an ACP client for Claude Code, Cursor and Codex, side by side with local GGUF models (llama-server, Ollama, LM Studio) and hosted APIs.
 
+## Clients & Remote Access
+
+Clients that carry an ACP session beyond the machine it runs on.
+
+* [acpantenna](https://github.com/fboldo/acpantenna) - CLI channel that connects a running ACP agent to a browser or phone over an end-to-end encrypted relay, with Matrix, Discord, Telegram and IRC bridges.
+
 ## Agents
 
 Autonomous coding assistants that implement the ACP server specification.
