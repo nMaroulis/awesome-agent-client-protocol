@@ -36,6 +36,8 @@ Clients that carry an ACP session beyond the machine it runs on.
 
 * [acpantenna](https://github.com/fboldo/acpantenna) - CLI channel that connects a running ACP agent to a browser or phone over an end-to-end encrypted relay, with Matrix, Discord, Telegram and IRC bridges.
 
+* [Concord Agent](https://github.com/zkwasm/concord-agent) - Open-source ACP client bridge connecting local Claude Code, Codex and Gemini sessions to shared collaboration rooms on the hosted Concord service, with persistent conversations and browser-based human oversight.
+
 ## Agents
 
 Autonomous coding assistants that implement the ACP server specification.
