@@ -8,6 +8,7 @@ The Agent Client Protocol (ACP) does for AI agents what the Language Server Prot
 
 * [Official Resources](#official-resources)
 * [Editors & IDEs](#editors--ides)
+* [Clients & Surfaces](#clients--surfaces)
 * [Agents](#agents)
 * [Cloud & Hybrid Agents](#cloud--hybrid-agents)
 * [Local & Open-Source Agents](#local--open-source-agents)
@@ -36,6 +37,12 @@ Clients that carry an ACP session beyond the machine it runs on.
 
 * [acpantenna](https://github.com/fboldo/acpantenna) - CLI channel that connects a running ACP agent to a browser or phone over an end-to-end encrypted relay, with Matrix, Discord, Telegram and IRC bridges.
 * [a2acode](https://github.com/kanywst/a2acode) - Serves an ACP agent over the A2A protocol so other agents can call it, with each permission request passed to the remote caller to answer.
+
+## Clients & Surfaces
+
+Non-editor ACP clients — the surfaces you run and supervise agents in.
+
+* [Zooid](https://zooid.dev/) - A self-hostable team-chat surface (Slack alternative on Matrix) where any ACP agent runs as a supervised, first-class teammate, with approval cards, live tool calls, and shared plans. ([GitHub](https://github.com/zooid-ai/zooid), MIT)
 
 ## Agents
 
