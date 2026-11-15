@@ -35,6 +35,7 @@ Code editors that natively support the Agent Client Protocol as clients.
 Clients that carry an ACP session beyond the machine it runs on.
 
 * [acpantenna](https://github.com/fboldo/acpantenna) - CLI channel that connects a running ACP agent to a browser or phone over an end-to-end encrypted relay, with Matrix, Discord, Telegram and IRC bridges.
+* [a2acode](https://github.com/kanywst/a2acode) - Serves an ACP agent over the A2A protocol so other agents can call it, with each permission request passed to the remote caller to answer.
 
 ## Agents
 
