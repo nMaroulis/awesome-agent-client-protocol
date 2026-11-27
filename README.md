@@ -64,6 +64,7 @@ Agents designed to run locally, prioritizing privacy and local LLM inference (Ol
 
 Libraries and tools to help you build your own ACP-compatible agent.
 
+* **[EverythingACP](https://github.com/jiangxingfan1-coder/EverythingACP)** - Open-source tool for mapping existing CLI and API interfaces into independently runnable ACP agents; configured peer links can delegate tasks between wrappers.
 * **[Python SDK](https://github.com/agentclientprotocol/agent-client-protocol/tree/main/sdk/python)** - The official Python software development kit for building ACP servers.
 * **[TypeScript SDK](https://github.com/agentclientprotocol/agent-client-protocol/tree/main/sdk/typescript)** - The official TypeScript library for Node.js agent development.
 * **[Rust Crate](https://crates.io/crates/agent-client-protocol)** - The core Rust types and primitives for ACP.
